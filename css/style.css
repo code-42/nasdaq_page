@@ -1,0 +1,23 @@
+body{
+    width: 80%;
+    text-align: left;
+    padding:40px;
+}
+
+article{
+    text-align: left;
+    max-width: 100%;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+}
+
+footer{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
